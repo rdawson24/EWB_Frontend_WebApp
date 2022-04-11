@@ -26,6 +26,7 @@ const NavTheme = {
 };
 
 // Options required for drawer component
+// headerStyle affects the header for each screen within the drawer
 const NavOptions = {
     title: 'EWB Nappy Washing Admin Portal',
     drawerType: 'permanent',
